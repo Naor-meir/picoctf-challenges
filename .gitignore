@@ -1,0 +1,9 @@
+*.zip
+*.exe
+*.bin
+*.tar.gz
+*.tar
+*.7z
+*.pdf
+*.pcap
+strings
